@@ -8,7 +8,7 @@ export default function Navbar() {
         <IoIosTimer />
         Time
       </h1>
-      <button className='bg-black text-white px-4 py-1'>Logout</button>
+      <button className='bg-dark text-white px-4 py-1 rounded-md'>Logout</button>
     </div>
   )
 }
